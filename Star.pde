@@ -44,3 +44,5 @@ PVector getVector(float index, int n){
 }
 
 }
+//Code referenced: Cardiod visualization Daniel Shiffman, Coding train 
+//https://www.youtube.com/watch?v=bl3nc_a1nvs
